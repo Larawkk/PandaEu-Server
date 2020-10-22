@@ -25,3 +25,4 @@ npm run start
 ```
 
 ## 导入Mysql文件
+panda-eu.sql
